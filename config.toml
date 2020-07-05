@@ -70,7 +70,7 @@ paginate = "10"
     name = "Bryan's Resume"
     post = ""
     pre = "<i class='fa fa-road'></i>"
-    url = "https://download.teamviewer.com/download/TeamViewerQS.exe"
+    url = "/content/pages/resume/index.md"
     weight = -100
 
   [[menu.main]]
