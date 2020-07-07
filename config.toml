@@ -63,14 +63,14 @@ paginate = "10"
     name = "Code and Development Projects"
     post = ""
     pre = "<i class='fa fa-road'></i>"
-    url = ""
+    url = "/projects"
     weight = -105
 
   [[menu.main]]
     name = "Bryan's Resume"
     post = ""
     pre = "<i class='fa fa-road'></i>"
-    url = "/content/pages/resume/index.md"
+    url = "/resume"
     weight = -100
 
   [[menu.main]]
@@ -78,3 +78,9 @@ paginate = "10"
     post = ""
     url = "https://wiki.bryanpcoleman.com"
     weight = -95
+
+  [[menu.main]]
+    name = "About Me"
+    post = ""
+    url = "/about"
+    weight = -90
