@@ -11,7 +11,6 @@ categories:
 tags:
 - information security
 - security
-- SOx
 ---
 
 

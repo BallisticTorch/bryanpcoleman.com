@@ -1,7 +1,7 @@
 ---
 title: "Bryan's Resume"
 type: post
-date: 2020-07-05T18:22:56-04:00
+date: 2018-07-05T18:22:56-04:00
 url: /resume/
 image: /images/2020-thumbs/resume.jpg
 ---

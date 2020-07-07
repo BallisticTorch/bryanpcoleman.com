@@ -9,7 +9,7 @@ categories:
 - Networking
 tags:
 - DDoS
-- denial-of-service
+- DoS
 - networking
 ---
 

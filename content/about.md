@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 type: post
-date: 2020-07-05T18:32:43-04:00
+date: 2018-07-05T18:32:43-04:00
 url: /about/
 image: /images/2020-thumbs/about.jpg
 ---

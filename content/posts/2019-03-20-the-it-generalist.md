@@ -8,9 +8,7 @@ url: /2019/03/20/the-it-generalist/
 categories:
 - Tech
 tags:
-- general
 - IT
-- musings
 ---
 
 

@@ -8,7 +8,6 @@ url: /2019/04/01/mesh-vs-extended-wifi-networks/
 categories:
 - Networking
 tags:
-- meshed networks
 - networking
 - wifi
 ---

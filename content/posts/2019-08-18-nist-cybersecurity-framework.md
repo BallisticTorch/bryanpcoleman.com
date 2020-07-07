@@ -7,6 +7,8 @@ type: post
 url: /2019/08/18/nist-cybersecurity-framework/
 categories:
 - Frameworks
+tags:
+- cybersecurity
 ---
 
 

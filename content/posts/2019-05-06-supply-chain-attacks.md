@@ -10,7 +10,7 @@ categories:
 tags:
 - cybersecurity
 - network
-- supply chain attacks
+- information security
 ---
 
 

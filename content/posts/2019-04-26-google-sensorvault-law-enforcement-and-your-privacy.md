@@ -8,7 +8,6 @@ url: /2019/04/26/google-sensorvault-law-enforcement-and-your-privacy/
 categories:
 - Tech
 tags:
-- google
 - privacy
 - security
 ---

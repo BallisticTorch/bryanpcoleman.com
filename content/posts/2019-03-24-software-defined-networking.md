@@ -10,7 +10,6 @@ categories:
 tags:
 - networking
 - SDN
-- software defined networking
 ---
 
 
