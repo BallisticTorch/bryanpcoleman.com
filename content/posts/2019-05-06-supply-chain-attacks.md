@@ -45,7 +45,7 @@ Lo and behold, months or years later, their new gadget becomes part of a botnet 
 
 ## Conclusion
 
-I have [written software](https://bryanpcoleman.com/code-and-development-projects/) to automate things I do and I have written software for the fun of it. I’ve incorporated APIs (application programming interfaces) and libraries from third-parties to get those projects and tools in my project. How did I verify those libraries and APIs were clean, free of malicious software? I didn’t, because I couldn’t.
+I have [written software](https://bryanpcoleman.com/projects/) to automate things I do and I have written software for the fun of it. I’ve incorporated APIs (application programming interfaces) and libraries from third-parties to get those projects and tools in my project. How did I verify those libraries and APIs were clean, free of malicious software? I didn’t, because I couldn’t.
 
 Often, source code isn't available for review because many libraries and APIs are closed source. It is also because I lack the knowledge to parse the contents of the code of these libraries and APIs.
 

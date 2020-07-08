@@ -1,9 +1,8 @@
 ---
 title: "Coding and Development Projects"
-type: post
-date: 2018-07-05T18:25:49-04:00
+type: page
+#date: 2018-07-05T18:25:49-04:00
 url: /projects/
-image: /images/2020-thumbs/projects.jpg
 ---
 ## Intro
 
@@ -29,7 +28,7 @@ In a previous role, I was responsible for not only IT administration, I was also
 
 We would often find out too late that a domain had been mis-configured (or reconfigured) or had expired. To ensure we had timely and updated information on all domains, both client and company controlled, I wrote this program that tested every domain (www and .) listed in IIS bindings against the IP address these domains should be pointing to. An email would be sent to me using SendGrid from each server with a list of the domains that failed to pass the test of where they were pointing. This allowed me to notify CRMs that their client's domains were not displaying the site we built, while providing them the necessary information to notify the client of why.
 
-Here is the code for the [Domain Testing](https://github.com/BallisticTorch/DomainTesting) program.
+[See it here.](https://github.com/BallisticTorch/DomainTesting)
 
 * * *
 

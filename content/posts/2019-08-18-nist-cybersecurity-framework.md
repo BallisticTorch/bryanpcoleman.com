@@ -53,7 +53,7 @@ If you are interested in other cybersecurity frameworks check out this one here:
 
 *Originally written June 2018 for Bryan's Master of Cybersecurity degree through Purdue University*
 
-### **References**
+##### **References**
 
 [1] Anderson, E. (2017). _How to comply with the 5 functions of the NIST Cybersecurity Framework_. Retrieved April 20, 2018 from [https://www.secmatters.com/blog/how-to-comply-with-the-5-functions-of-the-nist-cybersecurity-framework](https://www.secmatters.com/blog/how-to-comply-with-the-5-functions-of-the-nist-cybersecurity-framework)
 

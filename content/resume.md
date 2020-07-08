@@ -1,9 +1,8 @@
 ---
 title: "Bryan's Resume"
-type: post
-date: 2018-07-05T18:22:56-04:00
+type: page
+#date: 2018-07-05T18:22:56-04:00
 url: /resume/
-image: /images/2020-thumbs/resume.jpg
 ---
 Ambitious IT Professional with 10 years of experience in Technical Support and Systems Administration, and over 20 years of experience managing and supporting internal and external customer needs. Proven success in developing and implementing technology solutions to enhance business processes and meet business objectives. Highly organized and analytical, specializing in managing systems and networks to maintain reliability, scalability, and security, as well as troubleshooting complex technical issues.
 

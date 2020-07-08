@@ -15,6 +15,8 @@ tags:
 
 *This is a slimmed down version of an essay written in early 2017 by Bryan for his Master of Cybersecurity degree at Purdue University.*
 
+***
+
 Every department store, clinic, bank, or website a person interacts with involves some form of storing of personally identifiable information. It is common for everyone to trust the organizations with whom they do business, accepting a certain level of risk by allowing those organizations to store and use their personal information. Unfortunately, data breaches are becoming as common as traffic accidents, calling for improvements in every facet of cybersecurity, including but not limited to, the encryption of stored data.
 
 Encryption is not a new technology, but the idea of encrypting stored data is gaining relevant momentum. The focus of this essay is to explain encryption and the idea behind encrypting stored data, whether it is a file server or a database. Real-world examples are provided and discussed, concluding with expert testimony and this writer’s conclusions.
@@ -69,7 +71,7 @@ Miller and Tucker advise that encryption works well only when an organization us
 
 Encryption is one part of the overall picture to securing data. A well-rounded infrastructure that includes network security, intrusion detection and prevention systems, role-based access controls, data at rest encryption, and user training will significantly improve the odds of protecting data from theft. It is not possible to reduce the odds of theft to zero. For that, a revolutionary leap in network security and data protection will be necessary.
 
-## References
+##### References
 
 [1] Genes, R. (2016). Code cyber: Preventing breaches at hospitals and health care practices._ Journal of Health Care Compliance_, _18_(3), 13-18
 

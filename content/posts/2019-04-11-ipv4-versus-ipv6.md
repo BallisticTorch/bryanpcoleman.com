@@ -83,7 +83,7 @@ In terms of using IPv6 with DNS, the result is a smaller DNS table and more effi
 
 While IPv4 and IPv6 share features and rules, it is the scale of support that makes IPv6 the new go-to standard for IP addressing. The enormous amount of available addresses in IPv6 along with additional benefits like anycast, auto-configuration, and simplified IP assignment, ensure the future of the new standard. Internet Service Providers are upgrading their equipment to support IPv6, as are device and computer manufacturers all over the world. In the next few years, IPv6 will be the new IP addressing scheme for the Internet.
 
-## References
+##### References
 
 [1] Horley, E. (2013). Practical ipv6 for windows administrators. Retrieved from [http://common.books24x7.com.lib.kaplan.edu/toc.aspx?bookid=62121](http://common.books24x7.com.lib.kaplan.edu/toc.aspx?bookid=62121)
 
