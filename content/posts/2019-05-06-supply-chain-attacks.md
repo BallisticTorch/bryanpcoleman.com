@@ -51,4 +51,4 @@ Often, source code isn't available for review because many libraries and APIs ar
 
 So how can consumers, organizations, and governments know the software and hardware they create or purchase is clean? I honestly don’t know, at least for the consumer side of things. There are processes to follow and tools that can be used to detect malicious code inside software or hardware organizations and governments acquire that is to be used as is or incorporated into another product.
 
-I suppose the only real answer to this question is: **_trust_**. Everyone has to trust what they purchase or use, trust the companies that provide the service or product, and hope that if there are supply chain attacks, everyone can bounce back quickly and efficiently.
+I suppose the only real answer to the question of knowing if software and hardware is clean, secure, and reliable is ***trust***. Everyone has to trust what they purchase or use, trust the companies that provide the service or product, and hope that if there are supply chain attacks, everyone can bounce back quickly and efficiently.

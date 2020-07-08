@@ -5,17 +5,13 @@ type: page
 url: /about/
 ---
 
-Where does one begin when attempting to talk about themselves? Does one start with an origin story? Perhaps a journey of discovery? How about a story of overcoming adversity to reach one success or another? While those stories do exist in my life, I feel those would be too personal to share with someone. After all, we just met!
+Where does one begin when attempting to talk about themselves? Does one start with an origin story? Perhaps a journey of discovery? How about a story of overcoming adversity to reach one success or another? While those stories do exist, and I wouldn't be who I am today without them, I'm not wholly comfortable sharing those. After all, we did just meet!
 
-Maybe later, when we've had a chance to get to know one another I can share these personal anecdotes with you. By the way, this is me hanging out in my home office, in front of my messy desk.
-
-* * *
+Here's a snippet nonetheless of what got me where I am today.
 
 To cover the basics, I am a disabled veteran of the United States Coast Guard - Sempur Paratus! I injured my back during a training session and for the last 18-plus years, I've been battling disc degenerative disease, scoliosis, and extreme levels of pain.   
 
-Although my military career was short lived, my injury has afforded me an opportunity to pursue my passion - information technology.
-
-* * *
+Although my military career was short lived, my injury has afforded me an opportunity to pursue my passion - computers and software, also known as, information technology.
 
 I graduated in 2011 from Kaplan University with a Bachelor of Science degree in Information Technology, concentrating on Network Administration. 
 
@@ -27,4 +23,4 @@ Within a couple of years, I had obtained certifications from CompTIA, the A+ and
 
 I worked for several years before returning back to school; this time for a Master degree. I graduated from Purdue University - Global, formerly known as Kaplan University, in August of 2018 with a Master of Science degree in Cybersecurity Management.
 
-Whether it is reading from my Kindle, playing 4X and RTS games on my computer, surfing the web to learn about all things technology, I am using or connected to one piece of technology or another. And that is the purpose of this site: to give you, the reader, some insight into who I am and to share with you my thoughts on technology and the ever changing industry.
+Wherever this path on leads, I'm on it for the long hall. I have other dreams and aspirations too, and in time, those may appea here. For now, the  purpose of this site is to give you, the reader, some insight into who I am and to share with you my thoughts on technology and this ever changing industry.
