@@ -49,8 +49,6 @@ The purpose of a recovery plan is to return the business to normal operating con
 
 Although the NIST Cybersecurity Framework is deemed non-linear, it is important to consider that proper identification of processes and assets that need protection should be performed first. Without proper identification, it is not possible to determine safeguards, detection methods, response processes, and recovery procedures. In fact, once identification has completed, different teams can work independently on the other four core functions of the NIST Cybersecurity Framework, which will allow an organization to more quickly focus on cybersecurity efforts, protecting all critical assets necessary for business continuity.
 
-If you are interested in other cybersecurity frameworks check out this one here: [https://bryanpcoleman.com/2019/08/14/hipaa/](https://bryanpcoleman.com/2019/08/14/hipaa/)
-
 *Originally written June 2018 for Bryan's Master of Cybersecurity degree through Purdue University*
 
 ##### References
