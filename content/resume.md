@@ -11,9 +11,7 @@ Ambitious IT Professional with 10 years of experience in Technical Support and S
 ## Education
 
 **Master of Science in Cybersecurity Management**  
-2018 - GPA 4.0 - *Purdue University Global*
-
-**Master's Thesis**[Download](http://bryanpcoleman.com/wp-content/uploads/2019/03/Masters_thesis.pdf)
+2018 - *Purdue University Global*
 
 **Bachelor of Science in Information Technology**  
 2011 - *Kaplan University*

@@ -27,7 +27,7 @@ In June of 2015, the U.S. government suffered from a serious breach affecting se
 
 Ideally, all data should be encrypted to prevent the unauthorized viewing or theft of data. Will this prevent data breaches? It remains to be determined, although encryption may prevent or thwart outside attackers from viewing sensitive information, encryption does little to mitigate the insider threat. What follows is a brief introduction to encryption and data breaches as well as a brief analysis of the present use of encryption. Encrypting data at rest will be discussed in the section that follows. Finally, this paper will conclude with this writer’s thoughts on data at rest encryption.
 
-## Encryption Basics
+# Encryption Basics
 
 Encryption has a long and varied history dating back to several thousand years ago. Using cryptography, also known as the art of writing in code, secret messages were sent by empires to their allies, armies, and holdings. These simpler secret messages, often created using a letter-substitution system, could only be decoded by the recipient if they had the secret key. Eventually, encryption began using mathematical ciphers to encode messages, many of which evolved into algebraic formulas called algorithms[4]. In the 21st century, encryption refers to the manipulation and conversion of electronically stored data into a form that is unreadable by the human eye. Although not so different from the encryption used in classical times, the power of today’s computer systems can quickly break most ciphers from those eras.
 
@@ -45,7 +45,7 @@ Insider threats are not always malicious and are often accidental. In 2006, a ho
 
 When speaking of encryption, most information technology professionals will queue up images of Internet-related transactions involving the exchange of information over a secured platform. In fact, many people will think specifically of VPN tunnels, Wi-Fi security protocols, or encrypted email applications. Many IT professionals will not even think of encrypting data sitting in a database or on a file server. There are several complexities involved with encrypting data at rest, chief among them is ease of access by authorized personnel. Rather than encrypt the stored data, IT professionals seek to secure the file system, database, network, computer system, and even physical security like offices and network closets[1]. Although every one of these security measures does a great job, collectively, in protecting data, these measures are not resilient enough to keep out the most persistent threats. As witnessed in the examples provided, secure networks and systems are still penetrated, so it is clear to see that traditional security measures are not enough to prevent data breaches and protect stored data.
 
-## Data Breaches and Encryption
+# Data Breaches and Encryption
 
 The weakest link in any network is the user – the hourly employee, upper management, and even the users employed in the information technology department. Cybersecurity education and continuous training are necessary to ensure an equal understanding of vulnerabilities, processes, and protocols by everyone in an organization[1]. Through the development of a culture of security and involving all personnel in the development of that culture, organizations stand a greater chance of combating data breaches[1]. As previously stated, the goal of a data breach is to obtain information, preferably, to an attacker, to obtain personally identifiable information. If users are trained on social engineering and phishing scams, and understand the policies and protocols when handling the organization’s data on-site and offsite, then what is the next step for protecting data at rest?
 
@@ -63,7 +63,7 @@ Theft of laptops is becoming a normal process for data thieves. It is far easier
 
 These examples call into question the benefits of encrypting stored data. On the one hand, the data stolen in the examples provided could have proved useless if the information had been encrypted. However, in the case of the stolen laptop in 2006, the data was encrypted, but the encryption key was stored on the laptop along with the data[5]. A lost or compromised encryption key does more harm than good in situations like this, and as Miller and Tucker point out, encryption software is not effective at preventing the unauthorized access of encrypted data by insiders[5]. The same key that was used to steal the patient records from the laptop is the same key the nurse used to put the data on her laptop. While she did have authorized access to the information, she ultimately gave unauthorized access to the thieves.
 
-## Summary
+# Summary
 
 Preventing data breaches poses some serious questions, and the theft of data poses a serious threat. Determined attackers will get the data one way or another, no matter how good a network is at preventing it or how secure stored data is. Encrypting data at rest will not prevent data breaches, and in fact, may encourage thieves to try different avenues to get the data by targeting personnel directly. As previously stated, the weakest link in any IT infrastructure is the user. The user is the human element, the part of computers and networks that is impossible to calculate and take into account.
 

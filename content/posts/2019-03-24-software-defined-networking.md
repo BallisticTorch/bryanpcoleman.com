@@ -12,7 +12,14 @@ tags:
 - SDN
 ---
 
-You’ve just received a request from the development team that the testing virtual machine (VM) needs to “move” to the production environment network immediately to support faster deployment of tested and approved applications and updates. No big deal right? It’s a simple process of changing the VM’s IP configuration, updating some firewall rules in the data center, updating the local network, and do it all in the time the development team allotted during business hours. How many firewalls and routers do you need to update? Do you already have scripts in place that can do this for you, or are you going to do this manually? Is there enough bandwidth allocated to that network to support another system’s traffic? What about your documentation - how quickly can you get that updated? Let’s not forget your DR and BC plans too!
+Here's a scenario:
+
+You’ve just received a request from the development team that the testing virtual machine (VM) needs to “move” to the production environment network immediately to support faster deployment of tested and approved applications and updates. No big deal right? It’s a simple process of changing the VM’s IP configuration, updating some firewall rules in the data center, updating the local network, and do it all in the time the development team allotted during business hours.
+
+* How many firewalls and routers do you need to update?
+* Do you already have scripts in place that can do this for you, or are you going to do this manually?
+* Is there enough bandwidth allocated to that network to support another system’s traffic?
+* What about your documentation? How quickly can you get that updated? *Let’s not forget your DR (disaster recovery) and BC (business continuity) plans too!*
 
 ## Network Virtualization
 
