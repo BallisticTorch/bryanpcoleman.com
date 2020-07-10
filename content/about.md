@@ -21,6 +21,6 @@ Within a couple of years, I had obtained certifications from CompTIA, the A+ and
 * [CompTIA IT Operations Specialist](https://www.youracclaim.com/badges/f324aa8f-adeb-40f1-ace2-c4a0fcfcc0a5) *click to verify*
 * [CompTIA Network+](https://www.youracclaim.com/badges/4afde9f8-137d-4c1a-ac28-401b6bdad897) *click to verify*
 
-I worked for several years before returning back to school; this time for a Master degree. I graduated from Purdue University - Global, formerly known as Kaplan University, in August of 2018 with a Master of Science degree in Cybersecurity Management.
+I worked for several years before returning back to school; this time for a Master of Science degree. I graduated from Purdue University - Global, formerly known as Kaplan University, in August of 2018 with a Master of Science degree in Cybersecurity Management.
 
-Wherever this path on leads, I'm on it for the long hall. I have other dreams and aspirations too, and in time, those may appea here. For now, the  purpose of this site is to give you, the reader, some insight into who I am and to share with you my thoughts on technology and this ever changing industry.
+Wherever this path I am on leads, I am on it for the long hall. I have other dreams and aspirations too, and in time, those may appear here. For now, the  purpose of this site is to give you, the reader, some insight into who I am and to share with you my thoughts on technology and this ever changing industry.
