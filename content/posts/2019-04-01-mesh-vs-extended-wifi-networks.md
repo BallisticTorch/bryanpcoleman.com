@@ -8,7 +8,7 @@ url: /mesh-vs-extended-wifi-networks/
 categories:
 - Networking
 tags:
-- networking
+- networks
 - wifi
 ---
 

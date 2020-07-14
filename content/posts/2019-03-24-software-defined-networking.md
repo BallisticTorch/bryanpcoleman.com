@@ -8,7 +8,7 @@ url: /software-defined-networking/
 categories:
 - Networking
 tags:
-- networking
+- networks
 - SDN
 ---
 

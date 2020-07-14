@@ -10,7 +10,7 @@ categories:
 tags:
 - DNS
 - IP
-- networking
+- networks
 ---
 
 Internet communication would not be possible without the Domain Name System (DNS). For humans to interact with computers, there is a need for a translator that can translate human readable addresses into addresses that a computer can understand and act upon. Thus, DNS is used to translate computer readable binary into and from human readable IP addresses. DNS takes the process a step further by having records associating IP addresses to their respective common language addresses. The common denominator in DNS is the Internet Protocol address, also known as the IP address. To put it plainly, an IP address is a house number or a mailbox number and it identifies the location to which, or from which, data is communicated.

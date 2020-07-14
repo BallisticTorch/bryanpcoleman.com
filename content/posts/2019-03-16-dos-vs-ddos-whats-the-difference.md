@@ -10,7 +10,7 @@ categories:
 tags:
 - DDoS
 - DoS
-- networking
+- networks
 ---
 
 We use networks everyday, whether we are posting something on Facebook or Twitter from our mobile phones, catching up on the latest news in an online magazine, or binge watching our favorite shows on Netflix or Hulu. Networks are incredibly complex, yet for those in the know, they are all at once beautiful, intuitive, and a pain to manage, monitor, and protect. Networks serve as the backbone of every business, organization, government, school, and home. They facilitate the communication between dissimilar devices at a single location, up the street, across the country, and across the world.

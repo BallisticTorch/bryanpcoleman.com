@@ -9,7 +9,7 @@ categories:
 - Cybersecurity
 tags:
 - cybersecurity
-- network
+- networks
 - information security
 ---
 

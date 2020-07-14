@@ -10,7 +10,7 @@ categories:
 tags:
 - DDoS
 - DoS
-- networking
+- networks
 ---
 
 On March 14th, Facebook, and another of their platforms, Instagram, were reportedly down due to some kind of outage. According to Kate O’Flaherty, a freelance cybersecurity journalist, [in an article written for Forbes](https://www.forbes.com/sites/kateoflahertyuk/2019/03/14/was-the-facebook-outage-a-cyber-attack/#29cb0dc95223), yesterday’s outage was the worst since 2008. There was speculation that Facebook had become a victim of a cyber attack, a DDoS attack, which would not be altogether surprising given the amount of flak they have received for data breaches and security issues over the last 18 months or more.
