@@ -6,7 +6,7 @@ url: /projects/
 ---
 ## Intro
 
-I have long been interested in programming but as my career began in networking and is now focues on system administration and engineering, I haven't realized my interest in programming as of yet. What I mean to say is that most of my time is spent learning the technologies and solutions for my current career. That leaves little time to pursue programming and development outside of base hobbying.
+I have long been interested in programming but as my career began in networking and is now focued on system administration and engineering, I haven't realized my interest in programming as of yet. What I mean to say is that most of my time is spent learning the technologies and solutions for my current career. That leaves little time to pursue programming and development outside of base hobbying.
 
 On this page are programs I've written to solve problems or perform a task, with the exception of the Book Catalog below. The Book Catalog, well, it was designed to solve a problem, but it is of a personal nature. And although it is about 70% complete, I haven't touched it nearly a year, if not more. I wrote it in the languages that I am most familiar with - C# and SQL.
 
