@@ -45,7 +45,6 @@ paginate = "10"
 
 [Params.widgets.social]
   # Enable parts of social widget
-  twitter = "bryanpcoleman"
   linkedin = "bryanpcoleman"
   github = "BallisticTorch"
   email = "bryanpcoleman@gmail.com"
